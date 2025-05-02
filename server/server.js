@@ -9,7 +9,7 @@ app.use(express.json());
 app.use("/api/auth", router);
 
 
-//  ggfgfhdfapp.get("/", (req, res) => {
+// app.get("/", (req, res) => {
 //     res.status(200).send("Welcome server");
 // });
 
